@@ -22,7 +22,7 @@ I'm an applied data analyst looking into economic simulations.  <br>In my free t
 ![](https://github-contributor-stats.vercel.app/api?username=orectique&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://imgs.xkcd.com/comics/ai.png" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=orectique&icon=5&color=10)](https://visitcount.itsvg.in)
